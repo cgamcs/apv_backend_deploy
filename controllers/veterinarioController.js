@@ -1,4 +1,4 @@
-import Veterinario from '../models/veterinario.js';
+import Veterinario from '../models/Veterinario.js';
 import generarJWT from '../helpers/generarJWT.js';
 import generarId from '../helpers/generarId.js';
 import emailRegistro from '../helpers/emailRegistro.js';
